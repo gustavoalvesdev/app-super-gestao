@@ -24,7 +24,7 @@ php artisan key:generate
 
 ## Rodar as Migrations (após BD estar configurado no .env)
 ```bash
-php artisan:migrate
+php artisan migrate
 ```
 
 ## Subir a aplicação localmente
