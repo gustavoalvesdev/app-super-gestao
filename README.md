@@ -12,6 +12,11 @@ git clone git@github.com:gustavoalvesdev/app-super-gestao.git
 composer install
 ```
 
+## Copiar o arquivo .env.example para .env
+```bash
+copy .env.example .env
+```
+
 ## Gerar a chave da aplicação
 ```bash
 php artisan key:generate
