@@ -27,6 +27,11 @@ php artisan key:generate
 php artisan migrate
 ```
 
+## Rodar o Seeder de Fornecedores
+```bash
+php artisan db:seed --class=FornecedorSeeder
+```
+
 ## Subir a aplicação localmente
 ```bash
 php artisan serve
