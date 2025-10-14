@@ -1,4 +1,4 @@
-# App Super Gestão
+s# App Super Gestão
 
 Este projeto é uma aplicação web desenvolvida com Laravel 9 e PHP 8, como parte do curso ministrado por Jorge Santanna.
 O objetivo é fornecer uma plataforma para gestão empresarial, incluindo funcionalidades como gerenciamento de produtos, estoques e preços.
@@ -46,7 +46,7 @@ Siga os passos abaixo para configurar o projeto em seu ambiente local:
 6. **Execute as migrações do banco de dados:**
 
     ```bash
-   php artisn migrate
+   php artisan migrate
    ```
 
 7. **Inicie o servidor de desenvolvimento:**
